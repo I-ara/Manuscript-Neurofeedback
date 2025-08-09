@@ -19,7 +19,7 @@
 {\end{quote}}%
 
 \usepackage[natbib=true,backend=biber,style=apa]{biblatex}
-\addbibresource{sample.bib}
+\addbibresource{overleaf_neurofeedback.bib}
 
 \usepackage[ruled]{algorithm2e}%
 
