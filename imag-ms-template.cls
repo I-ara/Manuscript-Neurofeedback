@@ -43,6 +43,10 @@
 \marginpar{\vbox{\hsize=6pc\footnotesize\raggedright#1}\par}
 \egroup}%
 
+%% additions by Iara 9-9-2025
+\usepackage{float}
+
+
 %%%%%%%%%%%%%% additions by Steve Smith 11/1/24
 
 %%% margins
